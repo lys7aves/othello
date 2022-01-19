@@ -62,7 +62,7 @@ Journal of Chonnam Science
 
 ​    
 
-  ![그림입니다.  원본 그림의 이름: 20160720_191726_HDR.jpg  원본 그림의 크기: 가로 2560pixel, 세로 1600pixel](img\tmp27AA.jpg)   
+  ![그림입니다.  원본 그림의 이름: 20160720_191726_HDR.jpg  원본 그림의 크기: 가로 2560pixel, 세로 1600pixel](\img\tmp27AA.jpg)   
 
 ​    
 
@@ -70,7 +70,7 @@ Journal of Chonnam Science
 
 ​    
 
-  ![그림입니다.](img\tmp2896.jpg)  
+  ![그림입니다.](\img\tmp2896.jpg)  
 
 ​    
 
@@ -78,13 +78,13 @@ Journal of Chonnam Science
 
 ​    
 
-  ![그림입니다.](img\tmp28A6.jpg)  
+  ![그림입니다.](\img\tmp28A6.jpg)  
 
 ​    
 
 ​    5) 두 번째 플레이어인 흰색 돌의 플레이어는 검은색 돌을 뒤집을 수 있는 곳에 돌을 둔다. 뒤집은 돌은 흰색 플레이어의 소유가 된다.
 
-  ![그림입니다.  원본 그림의 이름: CLP000010600001.bmp  원본 그림의 크기: 가로 572pixel, 세로 567pixel](img\tmp28A7.jpg)     ![그림입니다.  원본 그림의 이름: CLP000010600002.bmp  원본 그림의 크기: 가로 568pixel, 세로 567pixel](img\tmp28B8.jpg)  
+  ![그림입니다.  원본 그림의 이름: CLP000010600001.bmp  원본 그림의 크기: 가로 572pixel, 세로 567pixel](\img\tmp28A7.jpg)     ![그림입니다.  원본 그림의 이름: CLP000010600002.bmp  원본 그림의 크기: 가로 568pixel, 세로 567pixel](\img\tmp28B8.jpg)  
 
 ​    
 
@@ -92,7 +92,7 @@ Journal of Chonnam Science
 
 ​    
 
-  ![그림입니다.  원본 그림의 이름: 20160720_192138_HDR.jpg  원본 그림의 크기: 가로 2560pixel, 세로 1600pixel](img\tmp28C9.jpg)     ![그림입니다.  원본 그림의 이름: CLP000010600004.bmp  원본 그림의 크기: 가로 546pixel, 세로 567pixel](img\tmp29A4.jpg)  
+  ![그림입니다.  원본 그림의 이름: 20160720_192138_HDR.jpg  원본 그림의 크기: 가로 2560pixel, 세로 1600pixel](\img\tmp28C9.jpg)     ![그림입니다.  원본 그림의 이름: CLP000010600004.bmp  원본 그림의 크기: 가로 546pixel, 세로 567pixel](\img\tmp29A4.jpg)  
 
 ​    
 
@@ -100,7 +100,7 @@ Journal of Chonnam Science
 
 ​    
 
-  ![그림입니다.  원본 그림의 이름: CLP000010600003.bmp  원본 그림의 크기: 가로 568pixel, 세로 567pixel](img\tmp29B5.jpg)  
+  ![그림입니다.  원본 그림의 이름: CLP000010600003.bmp  원본 그림의 크기: 가로 568pixel, 세로 567pixel](\img\tmp29B5.jpg)  
 
 ​    
 
@@ -110,9 +110,9 @@ Journal of Chonnam Science
 
  알고리즘이란 어떠한 문제를 해결하기 위한 여러 동작들의 모임이다. 
 
-  ![img](img\tmp29C6.jpg)  
+  ![\img](\img\tmp29C6.jpg)  
 
-  ![그림입니다.  원본 그림의 이름: CLP000014240005.bmp  원본 그림의 크기: 가로 390pixel, 세로 486pixel](img\tmp29D6.jpg)  
+  ![그림입니다.  원본 그림의 이름: CLP000014240005.bmp  원본 그림의 크기: 가로 390pixel, 세로 486pixel](\img\tmp29D6.jpg)  
 
 ​    
 
@@ -181,7 +181,7 @@ Journal of Chonnam Science
 
 ​    
 
-  ![그림입니다.](img\tmp29D7.jpg)  
+  ![그림입니다.](\img\tmp29D7.jpg)  
 
 ​    
 
@@ -801,11 +801,11 @@ int main()
 
 ​    
 
-  ![img](img\tmp2A17.jpg)  
+  ![\img](\img\tmp2A17.jpg)  
 
 ​    
 
-  ![img](img\tmp2A18.jpg)  
+  ![\img](\img\tmp2A18.jpg)  
 
 ​    
 
@@ -814,11 +814,11 @@ int main()
 
 ​    
 
-  ![img](img\tmp2A28.jpg)  
+  ![\img](\img\tmp2A28.jpg)  
 
 ​    
 
-  ![img](img\tmp2A39.jpg)  
+  ![\img](\img\tmp2A39.jpg)  
 
 ​    
 
@@ -868,7 +868,7 @@ int main()
 
 ​    
 
-  ![그림입니다.](img\tmp2A3A.jpg)      ![그림입니다.](img\tmp2A4B.jpg)  
+  ![그림입니다.](\img\tmp2A3A.jpg)      ![그림입니다.](\img\tmp2A4B.jpg)  
 
 ​    
 
@@ -878,7 +878,7 @@ int main()
 
 ​    
 
-  ![그림입니다.](img\tmp2A5B.jpg)       ![그림입니다.](tmp2A6C.jpg)       ![그림입니다.](img\tmp2A6D.jpg)  
+  ![그림입니다.](\img\tmp2A5B.jpg)       ![그림입니다.](tmp2A6C.jpg)       ![그림입니다.](\img\tmp2A6D.jpg)  
 
 ​    
 
@@ -886,7 +886,7 @@ int main()
 
 ​    
 
-  ![그림입니다.](img\tmp2A7E.jpg)       ![그림입니다.](img\tmp2A8E.jpg)  
+  ![그림입니다.](\img\tmp2A7E.jpg)       ![그림입니다.](\img\tmp2A8E.jpg)  
 
 ​    
 
@@ -896,7 +896,7 @@ int main()
 
 ​    
 
-  ![그림입니다.](img\tmp2A9F.jpg)  
+  ![그림입니다.](\img\tmp2A9F.jpg)  
 
 ​    
 
@@ -904,7 +904,7 @@ int main()
 
 ​    
 
-  ![그림입니다.](img\tmp2AA0.jpg)       ![그림입니다.](img\tmp2AB0.jpg)  
+  ![그림입니다.](\img\tmp2AA0.jpg)       ![그림입니다.](\img\tmp2AB0.jpg)  
 
 ​    
 
@@ -912,11 +912,11 @@ int main()
 
 ​    
 
-  ![그림입니다.](img\tmp2AC1.jpg)  
+  ![그림입니다.](\img\tmp2AC1.jpg)  
 
 ​    
 
-  ![그림입니다.](img\tmp2AD2.jpg)       ![그림입니다.](img\tmp2AD3.jpg)  
+  ![그림입니다.](\img\tmp2AD2.jpg)       ![그림입니다.](\img\tmp2AD3.jpg)  
 
 ​    
 
@@ -924,7 +924,7 @@ int main()
 
 ​    
 
-  ![그림입니다.](img\tmp2AE3.jpg)       ![그림입니다.](img\tmp2AF4.jpg)       ![그림입니다.](img\tmp2AF5.jpg)  
+  ![그림입니다.](\img\tmp2AE3.jpg)       ![그림입니다.](\img\tmp2AF4.jpg)       ![그림입니다.](\img\tmp2AF5.jpg)  
 
 ​    
 
@@ -936,11 +936,11 @@ int main()
 
 ​    
 
-  ![그림입니다.](img\tmp2B06.jpg)       ![그림입니다.](img\tmp2B16.jpg)  
+  ![그림입니다.](\img\tmp2B06.jpg)       ![그림입니다.](\img\tmp2B16.jpg)  
 
 ​    
 
-  ![그림입니다.](img\tmp2B27.jpg)       ![그림입니다.](img\tmp2B28.jpg)  
+  ![그림입니다.](\img\tmp2B27.jpg)       ![그림입니다.](\img\tmp2B28.jpg)  
 
 ​    
 
@@ -1006,7 +1006,7 @@ int main()
 
 ​    
 
-  ![img](img\tmp2B38.jpg)  
+  ![\img](\img\tmp2B38.jpg)  
 
  
 
@@ -1147,7 +1147,7 @@ double POINT(node1 p, int x, int y)
 
   
 
-  ![img](img\tmp2BC6.jpg)  
+  ![\img](\img\tmp2BC6.jpg)  
 
 
 
@@ -1212,27 +1212,27 @@ int AI_TURN(node1 ai)
 
 |            | put board                                                    | eat board                                                    |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 10 times   | ![img](img\tmp2C34.jpg)                                      | ![img](img\tmp2C45.jpg)                                      |
-| 20 times   | ![img](img\tmp2C46.jpg)                                      | ![img](img\tmp2C57.jpg)                                      |
-| 30 times   | ![img](img\tmp2C58.jpg)                                      | ![img](img\tmp2C68.jpg)                                      |
-| 40 times   | ![img](img\tmp2C69.jpg)                                      | ![img](img\tmp2C7A.jpg)                                      |
-| 50 times   | ![img](img\tmp2C7B.jpg)                                      | ![img](img\tmp2C8C.jpg)                                      |
-| 60 times   | ![img](img\tmp2C8D.jpg)                                      | ![img](img\tmp2C9D.jpg)                                      |
-| 70 times   | ![img](img\tmp2C9E.jpg)                                      | ![img](img\tmp2CAF.jpg)                                      |
-| 80 times   | ![img](img\tmp2CB0.jpg)                                      | ![img](img\tmp2CC0.jpg)                                      |
-| 90 times   | ![img](img\tmp2CC1.jpg)                                      | ![img](img\tmp2CD2.jpg)                                      |
-| 100 times  | ![img](img\tmp2CD3.jpg)                                      | ![img](img\tmp2CE4.jpg)                                      |
-| 200 times  | ![img](img\tmp2CE5.jpg)                                      | ![img](img\tmp2CF5.jpg)                                      |
-| 300 times  | ![img](img\tmp2CF6.jpg)                                      | ![img](img\tmp2D07.jpg) |
-| 400 times  | ![img](C:\Users\SAMSUNG\Downloads\논문\논문\탐구논문\논문\img\tmp2D08.jpg) | ![img](img\tmp2D19.jpg)                                      |
-| 500 times  | ![img](img\tmp2D1A.jpg) | ![img](img\tmp2D2A.jpg) |
-| 600 times  | ![img](img\tmp2D2B.jpg)                                      | ![img](img\tmp2D2C.jpg) |
-| 700 times  | ![img](img\tmp2D3D.jpg) | ![img](img\tmp2D3E.jpg) |
-| 800 times  | ![img](img\tmp2D4E.jpg) | ![img](img\tmp2D4F.jpg)                                      |
-| 900 times  | ![img](img\tmp2D60.jpg) | ![img](img\tmp2D61.jpg) |
-| 1000 times | ![img](img\tmp2D72.jpg)                                      | ![img](img\tmp2D82.jpg) |
-| 2000 times | ![img](img\tmp2D83.jpg) | ![img](img\tmp2D94.jpg) |
-| 3000 times | ![img](img\tmp2D95.jpg)                                      | ![img](img\tmp2D96.jpg) |
+| 10 times   | ![\img](\img\tmp2C34.jpg)                                      | ![\img](\img\tmp2C45.jpg)                                      |
+| 20 times   | ![\img](\img\tmp2C46.jpg)                                      | ![\img](\img\tmp2C57.jpg)                                      |
+| 30 times   | ![\img](\img\tmp2C58.jpg)                                      | ![\img](\img\tmp2C68.jpg)                                      |
+| 40 times   | ![\img](\img\tmp2C69.jpg)                                      | ![\img](\img\tmp2C7A.jpg)                                      |
+| 50 times   | ![\img](\img\tmp2C7B.jpg)                                      | ![\img](\img\tmp2C8C.jpg)                                      |
+| 60 times   | ![\img](\img\tmp2C8D.jpg)                                      | ![\img](\img\tmp2C9D.jpg)                                      |
+| 70 times   | ![\img](\img\tmp2C9E.jpg)                                      | ![\img](\img\tmp2CAF.jpg)                                      |
+| 80 times   | ![\img](\img\tmp2CB0.jpg)                                      | ![\img](\img\tmp2CC0.jpg)                                      |
+| 90 times   | ![\img](\img\tmp2CC1.jpg)                                      | ![\img](\img\tmp2CD2.jpg)                                      |
+| 100 times  | ![\img](\img\tmp2CD3.jpg)                                      | ![\img](\img\tmp2CE4.jpg)                                      |
+| 200 times  | ![\img](\img\tmp2CE5.jpg)                                      | ![\img](\img\tmp2CF5.jpg)                                      |
+| 300 times  | ![\img](\img\tmp2CF6.jpg)                                      | ![\img](\img\tmp2D07.jpg) |
+| 400 times  | ![\img](C:\Users\SAMSUNG\Downloads\논문\논문\탐구논문\논문\\img\tmp2D08.jpg) | ![\img](\img\tmp2D19.jpg)                                      |
+| 500 times  | ![\img](\img\tmp2D1A.jpg) | ![\img](\img\tmp2D2A.jpg) |
+| 600 times  | ![\img](\img\tmp2D2B.jpg)                                      | ![\img](\img\tmp2D2C.jpg) |
+| 700 times  | ![\img](\img\tmp2D3D.jpg) | ![\img](\img\tmp2D3E.jpg) |
+| 800 times  | ![\img](\img\tmp2D4E.jpg) | ![\img](\img\tmp2D4F.jpg)                                      |
+| 900 times  | ![\img](\img\tmp2D60.jpg) | ![\img](\img\tmp2D61.jpg) |
+| 1000 times | ![\img](\img\tmp2D72.jpg)                                      | ![\img](\img\tmp2D82.jpg) |
+| 2000 times | ![\img](\img\tmp2D83.jpg) | ![\img](\img\tmp2D94.jpg) |
+| 3000 times | ![\img](\img\tmp2D95.jpg)                                      | ![\img](\img\tmp2D96.jpg) |
 
 
 
@@ -1245,25 +1245,25 @@ int AI_TURN(node1 ai)
 
 |            | put board                                                    | eat board                                                    |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 10 times   | ![img](img\tmp2DA7.jpg) | ![img](img\tmp2DA8.jpg) |
-| 20 times   | ![img](img\tmp2DB8.jpg)                                      | ![img](img\tmp2DB9.jpg)                                      |
-| 30 times   | ![img](img\tmp2DCA.jpg)                                      | ![img](img\tmp2DCB.jpg)                                      |
-| 40 times   | ![img](img\tmp2DDB.jpg)                                      | ![img](img\tmp2DDC.jpg)                                      |
-| 50 times   | ![img](img\tmp2DED.jpg) | ![img](img\tmp2DFE.jpg) |
-| 60 times   | ![img](img\tmp2DFF.jpg) | ![img](img\tmp2E0F.jpg) |
-| 70 times   | ![img](img\tmp2E10.jpg) | ![img](img\tmp2E11.jpg) |
-| 80 times   | ![img](img\tmp2E22.jpg) | ![img](img\tmp2E33.jpg) |
-| 90 times   | ![img](img\tmp2E34.jpg) | ![img](img\tmp2E44.jpg) |
-| 100 times  | ![img](img\tmp2E45.jpg) | ![img](img\tmp2E46.jpg) |
-| 200 times  | ![img](img\tmp2E57.jpg) | ![img](img\tmp2E67.jpg) |
-| 300 times  | ![img](img\tmp2E68.jpg) | ![img](img\tmp2E69.jpg) |
-| 400 times  | ![img](img\tmp2E7A.jpg) | ![img](img\tmp2E7B.jpg) |
-| 500 times  | ![img](img\tmp2E8C.jpg) | ![img](img\tmp2E8D.jpg) |
-| 600 times  | ![img](img\tmp2E9D.jpg) | ![img](img\tmp2E9E.jpg) |
-| 700 times  | ![img](img\tmp2EAF.jpg) | ![img](img\tmp2EB0.jpg) |
-| 800 times  | ![img](img\tmp2EC1.jpg) | ![img](img\tmp2ED1.jpg) |
-| 900 times  | ![img](img\tmp2ED2.jpg) | ![img](img\tmp2EE3.jpg) |
-| 1000 times | ![img](img\tmp2EE4.jpg) | ![img](img\tmp2EF4.jpg) |
+| 10 times   | ![\img](\img\tmp2DA7.jpg) | ![\img](\img\tmp2DA8.jpg) |
+| 20 times   | ![\img](\img\tmp2DB8.jpg)                                      | ![\img](\img\tmp2DB9.jpg)                                      |
+| 30 times   | ![\img](\img\tmp2DCA.jpg)                                      | ![\img](\img\tmp2DCB.jpg)                                      |
+| 40 times   | ![\img](\img\tmp2DDB.jpg)                                      | ![\img](\img\tmp2DDC.jpg)                                      |
+| 50 times   | ![\img](\img\tmp2DED.jpg) | ![\img](\img\tmp2DFE.jpg) |
+| 60 times   | ![\img](\img\tmp2DFF.jpg) | ![\img](\img\tmp2E0F.jpg) |
+| 70 times   | ![\img](\img\tmp2E10.jpg) | ![\img](\img\tmp2E11.jpg) |
+| 80 times   | ![\img](\img\tmp2E22.jpg) | ![\img](\img\tmp2E33.jpg) |
+| 90 times   | ![\img](\img\tmp2E34.jpg) | ![\img](\img\tmp2E44.jpg) |
+| 100 times  | ![\img](\img\tmp2E45.jpg) | ![\img](\img\tmp2E46.jpg) |
+| 200 times  | ![\img](\img\tmp2E57.jpg) | ![\img](\img\tmp2E67.jpg) |
+| 300 times  | ![\img](\img\tmp2E68.jpg) | ![\img](\img\tmp2E69.jpg) |
+| 400 times  | ![\img](\img\tmp2E7A.jpg) | ![\img](\img\tmp2E7B.jpg) |
+| 500 times  | ![\img](\img\tmp2E8C.jpg) | ![\img](\img\tmp2E8D.jpg) |
+| 600 times  | ![\img](\img\tmp2E9D.jpg) | ![\img](\img\tmp2E9E.jpg) |
+| 700 times  | ![\img](\img\tmp2EAF.jpg) | ![\img](\img\tmp2EB0.jpg) |
+| 800 times  | ![\img](\img\tmp2EC1.jpg) | ![\img](\img\tmp2ED1.jpg) |
+| 900 times  | ![\img](\img\tmp2ED2.jpg) | ![\img](\img\tmp2EE3.jpg) |
+| 1000 times | ![\img](\img\tmp2EE4.jpg) | ![\img](\img\tmp2EF4.jpg) |
 
 
 
@@ -1347,7 +1347,7 @@ int USER_TURN(node1 user, bool z)
 
 ​    
 
-  ![img](img\tmp2EF5.jpg)  
+  ![\img](\img\tmp2EF5.jpg)  
 
  토너먼트는 총 3판 2선승제로 진행되었다. 또 우리는 random간 결과 그래프와 유사한 개형을 가지는 그래프가 우승할 것이라 추측하고, 대진표에서 4번째에 위치하고 있는 그래프를 가진 AI가 우승할 것이라 예측하였다.
 
@@ -1357,7 +1357,7 @@ int USER_TURN(node1 user, bool z)
 
 ​    
 
-  ![img](img\tmp2F25.jpg)  
+  ![\img](\img\tmp2F25.jpg)  
 
 ​    
 
