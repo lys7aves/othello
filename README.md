@@ -38,7 +38,7 @@ Journal of Chonnam Science
 
 ​    
 
-## Ⅱ**.** 이론적 배경
+## Ⅱ. 이론적 배경
 
 ​    
 
@@ -124,7 +124,7 @@ Journal of Chonnam Science
 
 ​    
 
-## Ⅲ**.** 탐구계획 설정
+## Ⅲ. 탐구계획 설정
 
 
 
@@ -163,7 +163,7 @@ Journal of Chonnam Science
 
 ​    
 
-## Ⅳ**.** 탐구내용 및 결과
+## Ⅳ. 탐구내용 및 결과
 
 ​    
 
@@ -1375,7 +1375,7 @@ int USER_TURN(node1 user, bool z)
 
 ​    
 
-## Ⅴ**.** 결론 및 제언
+## Ⅴ. 결론 및 제언
 
 ​    
 
